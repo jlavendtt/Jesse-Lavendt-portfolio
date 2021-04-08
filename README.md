@@ -1,9 +1,9 @@
 # Jesse Lavendt Portfolio
 
 ## Contact Information
-*Email - `jlavendt@gmail.com`
-*Phone
-*Website
+* Email - `jlavendt@gmail.com`
+* Phone
+* Website
 
 ## Summary
 * Fullstack engineer with proficiencies in languages.
