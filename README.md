@@ -1,5 +1,4 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css"/>
-# Jesse Lavendt Portfolio
 
 <img src="mypicture.jpeg" alt="drawing" width="200"/>
 
