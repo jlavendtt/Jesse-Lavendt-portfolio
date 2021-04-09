@@ -46,3 +46,17 @@
 * Worked part-time during the school semester. My co-founder was an experienced exgineer that coached me through much of the software practices including using the API's and libraries.
 * Can be downloaded on the app store.
 
+<hr><hr>
+
+## Notable Undergrad Projects
+
+### Traffic Simulation
+
+* Multithreaded program that concurrently handles many cars going through an intersection as efficiently as possible without any collision.
+
+### Floating Point Manipulation
+
+* Converts between doubles and floating point representation.
+* Caplable of multiplying and adding floating point values.
+
+### HHyperparameter Tuning 
