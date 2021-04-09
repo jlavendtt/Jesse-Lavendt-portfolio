@@ -19,5 +19,15 @@
 
 <hr><hr>
 
+## Work Experience
 
+### Full Stack Engineer
+#### Talent Path
+##### 2020-Present
+
+###### Government Diversity Project
+
+* Visual representation of the demographics of the United States representatives over the past 50 years.
+
+##### Amazon Item Page Replication
 
