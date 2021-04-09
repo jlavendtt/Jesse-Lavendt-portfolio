@@ -25,7 +25,7 @@
 #### Talent Path
 ##### 2020-Present
 
-###### Government Diversity Project
+##### Government Diversity Project
 
 * Visual representation of the demographics of the United States representatives over the past 50 years.
 * Postgres database, Java Springboot backend, Typescript and Angular frontend.
