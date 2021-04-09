@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" media="all" href="./style.css"/>
 # Jesse Lavendt Portfolio
 
 ![Picture of Jesse](mypicture.jpeg)
