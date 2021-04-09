@@ -28,6 +28,17 @@
 ###### Government Diversity Project
 
 * Visual representation of the demographics of the United States representatives over the past 50 years.
+* Postgres database, Java Springboot backend, Typescript and Angular frontend.
+* Launched remotely using Heroku.
 
 ##### Amazon Item Page Replication
+
+* Full stack replication of an Amazon item page.
+* Utilizes github workflow
+* Postgres database, Java Springboot backend, Javascript and React frontend.
+
+##### Homemade Checkers
+
+* Full stack replication of the popular game of checkers using no pre-existing checkers libraries.
+
 
