@@ -18,7 +18,7 @@
 
 ### Full Stack Engineer at Talent Path (2020-Present)
 
-#### Uniteed States Government Diversity Project
+#### [United States Government Diversity Project](https://github.com/Cwiesen/DiversityInclusionFrontend)
 
 * Visual representation of the demographics of the elected representatives over the past 50 years.
 * Postgres database, Java Springboot backend, Typescript and Angular frontend.
