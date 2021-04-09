@@ -61,3 +61,8 @@
 ### Caching system
  
 * Created synthetic memory representation with virtual memory, physical memory, and a cahce This system was able to perform virtual memory to physical memory translation, page-fault representations, and caching based on least recently used algorithm.
+
+## Side Projects
+
+* Recreated the popular game of Pig.
+* Recreated the classic game of Pong using the unity engine.
