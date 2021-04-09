@@ -39,4 +39,10 @@
 
 * Full stack replication of the popular game of checkers using no pre-existing checkers libraries.
 
+### Co-Founder at EverShift (2019-2020)
+
+* Helped create a mobile and web app that connnects restaurants with available qualified workers with the intention of filling last minute shifts.
+* Helped develop and create the logic for the sign-up page using Javascript and React-Native.
+* Worked part-time during the school semester. My co-founder was an experienced exgineer that coached me through much of the software practices including using the API's and libraries.
+* Can be downloaded on the app store.
 
