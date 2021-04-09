@@ -59,4 +59,10 @@
 * Converts between doubles and floating point representation.
 * Caplable of multiplying and adding floating point values.
 
-### HHyperparameter Tuning 
+### Hyperparameter Tuning 
+
+* Utilized grid search to tune the hyperparameters of popular classifying algorithms such as decision trees and logitstic regression.
+
+### Caching system
+ 
+* Created synthetic memory representation with virtual memory, physical memory, and a cahce This system was able to perform virtual memory to physical memory translation, page-fault representations, and caching based on least recently used algorithm.
