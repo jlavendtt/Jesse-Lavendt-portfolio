@@ -2,20 +2,22 @@
 
 <img src="mypicture.jpeg" alt="drawing" width="200"/>
 
-## Contact Information
-* Email - `jlavendt@gmail.com`
-* Phone
-* Website
+# Full Stack Engineer at Talent Path
 
-## Summary
-* Fullstack engineer with proficiencies in languages.
+## About
 
-**bold**
+### Summary
+* Fullstack engineer with a passion for music and gymnastics.
 
-_Italics_ 
+### Contact Information
+* **Email**: - <a href="mailto:jlavendt@talentpath.com">`jlavendt@talentpath.com`</a>
+* **Phone**: (571) 748-8555
 
-```
-git clone ${name-of-repo}
-cd ${name-of-repo}
-mvn spring-boot:run
-```
+### Education
+* George Mason University (2016-2020)
+* Computer Science (BS)
+
+<hr><hr>
+
+
+
