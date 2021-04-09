@@ -1,7 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css"/>
 # Jesse Lavendt Portfolio
 
-![Picture of Jesse](mypicture.jpeg)
 <img src="mypicture.jpeg" alt="drawing" width="200"/>
 
 ## Contact Information
