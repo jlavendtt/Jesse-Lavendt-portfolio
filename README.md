@@ -36,7 +36,7 @@
 
 * Helped create a mobile and web app that connnects restaurants with available qualified workers with the intention of filling last minute shifts.
 * Helped develop and create the logic for the sign-up page using Javascript and React-Native.
-* Worked part-time during the school semester. My co-founder was an experienced exgineer that coached me through much of the software practices including using the API's and libraries.
+* Worked part-time during the school semester. My co-founder was an experienced engineer that coached me through much of the software practices including using the API's and libraries.
 * Can be downloaded on the app store.
 
 <hr><hr>
