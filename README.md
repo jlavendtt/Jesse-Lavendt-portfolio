@@ -3,7 +3,7 @@
 <img class="center" src="mypicture.jpeg" alt="drawing" width="100" height="auto"/>
 
 ## Contact Information
-* **Email**: - <a href="mailto:jlavendt@talentpath.com">`jlavendt@talentpath.com`</a>
+* **Email**:  <a href="mailto:jlavendt@talentpath.com">`jlavendt@talentpath.com`</a>
 * **Phone**: (571) 748-8555
 
 ## Education
@@ -22,7 +22,7 @@
 * Postgres database, Java Springboot backend, Typescript and Angular frontend.
 * Launched remotely using Heroku.
 
-#### Amazon Item Page Replication [(Frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) [(Backend)](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
+#### Amazon Item Page Replication [(Frontend)](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) [(Backend)](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
 
 * Full stack replication of an Amazon item page.
 * Utilizes github workflow
