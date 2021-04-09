@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css"/>
 
-<img src="mypicture.jpeg" alt="drawing" width="200"/>
+<img class="center" src="mypicture.jpeg" alt="drawing" width="200"/>
 
 # Full Stack Engineer at Talent Path
 
