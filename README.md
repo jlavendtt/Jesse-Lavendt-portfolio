@@ -24,17 +24,17 @@
 * Postgres database, Java Springboot backend, Typescript and Angular frontend.
 * Launched remotely using Heroku.
 
-#### Amazon Item Page Replication
+#### Amazon Item Page Replication [(Frontend](https://github.com/TheReallyGreatTeamFSEMarch2021/ReactShamazin) [(Backend)](https://github.com/TheReallyGreatTeamFSEMarch2021/Shamazin2)
 
 * Full stack replication of an Amazon item page.
 * Utilizes github workflow
 * Postgres database, Java Springboot backend, Javascript and React frontend.
 
-#### Homemade Checkers
+#### [Homemade Checkers](https://github.com/jlavendtt/Home-Made-Checkers)
 
 * Full stack replication of the popular game of checkers using no pre-existing checkers libraries.
 
-### Co-Founder at EverShift (2019-2020)
+### Co-Founder at [EverShift](https://www.evershift.io/) (2019-2020)
 
 * Helped create a mobile and web app that connnects restaurants with available qualified workers with the intention of filling last minute shifts.
 * Helped develop and create the logic for the sign-up page using Javascript and React-Native.
