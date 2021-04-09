@@ -2,8 +2,6 @@
 
 <img class="center" src="mypicture.jpeg" alt="drawing" width="100" height="auto"/>
 
-# Full Stack Engineer at Talent Path
-
 ## Contact Information
 * **Email**: - <a href="mailto:jlavendt@talentpath.com">`jlavendt@talentpath.com`</a>
 * **Phone**: (571) 748-8555
