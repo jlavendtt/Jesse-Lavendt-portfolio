@@ -16,11 +16,10 @@
 
 ### Full Stack Engineer at Talent Path (2020-Present)
 
-#### United States Government Diversity Project [(Front-End)](https://github.com/Cwiesen/DiversityInclusionFrontend) [(Backend)](https://github.com/Cwiesen/DiversityInclusionProject)
+#### Game Catalogue [(Front-End)](https://github.com/jlavendtt/react-final-games) [(Backend)](https://github.com/talent-path/classwork-lavendt-jesse/tree/main/GameCollection)
 
-* Visual representation of the demographics of the elected representatives over the past 50 years.
-* Postgres database, Java Springboot backend, Typescript and Angular frontend.
-* Launched remotely using Heroku.
+* Utilizes C# Dotnet framework and react and javascript front end.
+* Allows users to catalogue games they've completed, started, and games they want to one day play.
 
 #### United States Government Diversity Project [(Front-End)](https://github.com/Cwiesen/DiversityInclusionFrontend) [(Backend)](https://github.com/Cwiesen/DiversityInclusionProject)
 
